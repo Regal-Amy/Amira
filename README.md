@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a machine learning engineer
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on colleagues and stakeholders with more advanced nowledge of machine leaning
-- 📫 How to reach me by mail amiratabdulslalam1@hmail.com
+- 📫 How to reach me by mail amiratabdulslalam1@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: i am crossing over from civil engineering to Data Science.
 
