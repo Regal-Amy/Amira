@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Regal-Amy
+- 👋 Hi, I’m @Amira
 - 👀 I’m interested in becoming a machine learning engineer
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on colleagues and stakeholders with more advanced nowledge of machine leaning
