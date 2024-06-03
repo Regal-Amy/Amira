@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on colleagues and stakeholders with more advanced nowledge of machine leaning
 - 📫 How to reach me by mail amiratabdulslalam1@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: i am crossing over from civil engineering to Data Science.
+- ⚡ Fun fact: I am crossing over from civil engineering to Data Science.
 
 <!---
 Regal-Amy/Regal-Amy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
