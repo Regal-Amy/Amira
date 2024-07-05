@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amira
 - 👀 I’m interested in becoming a machine learning engineer
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on colleagues and stakeholders with more advanced nowledge of machine leaning
+- 🌱 AI Enthusiast 
+- 💞️ I’m looking to collaborate on colleagues and stakeholders with more advanced knowledge of machine leaning
 - 📫 How to reach me by mail amiratabdulslalam1@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am crossing over from civil engineering to Data Science.
